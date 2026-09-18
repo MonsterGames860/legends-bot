@@ -1,0 +1,16 @@
+{
+  "name": "legends-discord-bot",
+  "version": "1.0.0",
+  "description": "Legends oyunu Discord hesap bağlama ve rütbe eşitleme botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
